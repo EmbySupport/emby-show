@@ -1,0 +1,525 @@
+﻿{
+    "RootFolders": [
+        {
+            "Status": "Continuing",
+            "Children": [
+                {
+                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemFolder, Emby.Plugin.EmbyShow",
+                    "Children": [
+                        {
+                            "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                            "ItemInfo": {
+                                "Name": "Teaser Intro",
+                                "SeriesName": "The EMBY Show (Preview)",
+                                "Id": "nftdEpisode0",
+                                "DateModified": "\/Date(1665435189578)\/",
+                                "Type": "Media",
+                                "Overview": "Teaser - introducing The Emby Show",
+                                "Genres": [
+                                    
+                                ],
+                                "Studios": [
+                                    
+                                ],
+                                "Tags": [
+                                    "Emby Show"
+                                ],
+                                "People": [
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "softworkz",
+                                        "Type": "Director",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz.png",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "luke",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke.jpg",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "ebr",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr.jpg",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    }
+                                ],
+                                "RunTimeTicks": 420000000,
+                                "ImageUrl": "https://embysupport.github.io/emby-show/images/episodes/s01_e00_primary.jpg",
+                                "MediaType": "Video",
+                                "FolderType": "Container",
+                                "ContentType": "Episode",
+                                "ExtraType": "0",
+                                "ProviderIds": {
+                                    
+                                },
+                                "PremiereDate": "\/Date(1664755200000)\/",
+                                "IndexNumber": 0,
+                                "ParentIndexNumber": 1,
+                                "MediaSources": [
+                                    {
+                                        "Protocol": "Http",
+                                        "Id": "33abfc5962b40e8d2f0a950c11464941",
+                                        "Path": "https://embysupport.github.io/emby-show/es00/es_e00.m3u8",
+                                        "Type": "Default",
+                                        "Container": "hls",
+                                        "Name": "Teaser Intro",
+                                        "IsRemote": true,
+                                        "RunTimeTicks": 420000000,
+                                        "SupportsTranscoding": true,
+                                        "SupportsDirectStream": true,
+                                        "SupportsDirectPlay": true,
+                                        "IsInfiniteStream": false,
+                                        "RequiresOpening": true,
+                                        "RequiresClosing": true,
+                                        "RequiresLooping": false,
+                                        "SupportsProbing": false,
+                                        "MediaStreams": [
+                                            {
+                                                "VideoRange": "SDR",
+                                                "IsInterlaced": false,
+                                                "IsDefault": false,
+                                                "IsForced": false,
+                                                "Type": "Video",
+                                                "Index": -1,
+                                                "IsExternal": false,
+                                                "IsTextSubtitleStream": false,
+                                                "SupportsExternalStream": false,
+                                                "Protocol": "File"
+                                            }
+                                        ],
+                                        "Formats": [
+                                            
+                                        ],
+                                        "RequiredHttpHeaders": {
+                                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                        },
+                                        "ReadAtNativeFramerate": false
+                                    }
+                                ],
+                                "Artists": [
+                                    
+                                ],
+                                "AlbumArtists": [
+                                    
+                                ],
+                                "IsLiveStream": false
+                            },
+                            "ImageInfos": [
+                                {
+                                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
+                                    "Type": "Backdrop",
+                                    "Orientation": "LeftTop",
+                                    "DateModified": "\/Date(-62135596800000)\/",
+                                    "Width": 0,
+                                    "Height": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "ItemInfo": {
+                        "Name": "News from the Devs",
+                        "Id": "newsFromTheDevs",
+                        "DateModified": "\/Date(1665435189577)\/",
+                        "Type": "Folder",
+                        "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThis is the 'News from the Devs', sub-channel which is targeting users of the beta versions, developers and technical enthusiasts.",
+                        "Genres": [
+                            
+                        ],
+                        "Studios": [
+                            
+                        ],
+                        "Tags": [
+                            
+                        ],
+                        "People": [
+                            
+                        ],
+                        "ImageUrl": "https://embysupport.github.io/emby-show/images/news_from_the_devs_primary.png",
+                        "MediaType": "Video",
+                        "FolderType": "Season",
+                        "ContentType": "Clip",
+                        "ExtraType": "0",
+                        "ProviderIds": {
+                            
+                        },
+                        "IndexNumber": 1,
+                        "MediaSources": [
+                            
+                        ],
+                        "Artists": [
+                            
+                        ],
+                        "AlbumArtists": [
+                            
+                        ],
+                        "IsLiveStream": false
+                    },
+                    "TagLine": "Covering Beta Versions and Technical Backgrounds",
+                    "ImageInfos": [
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1665435189577)\/",
+                            "Width": 0,
+                            "Height": 0
+                        },
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1665435189577)\/",
+                            "Width": 0,
+                            "Height": 0
+                        },
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop4.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1665435189577)\/",
+                            "Width": 0,
+                            "Height": 0
+                        }
+                    ]
+                },
+                {
+                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                    "ItemInfo": {
+                        "Name": "Emby Show Theme Song",
+                        "Id": "themeSong1",
+                        "DateModified": "\/Date(1665435189596)\/",
+                        "Type": "Media",
+                        "Genres": [
+                            
+                        ],
+                        "Studios": [
+                            
+                        ],
+                        "Tags": [
+                            
+                        ],
+                        "People": [
+                            
+                        ],
+                        "MediaType": "Audio",
+                        "FolderType": "Container",
+                        "ContentType": "TvExtra",
+                        "ExtraType": "ThemeSong",
+                        "ProviderIds": {
+                            
+                        },
+                        "PremiereDate": "\/Date(1664755200000)\/",
+                        "MediaSources": [
+                            {
+                                "Protocol": "Http",
+                                "Id": "fdaa031b9d1d3079dcba45ad5571681c",
+                                "Path": "https://embysupport.github.io/emby-show/theme_music.mp3",
+                                "Type": "Default",
+                                "Container": "mp3",
+                                "Name": "Emby Show Theme Song",
+                                "IsRemote": true,
+                                "SupportsTranscoding": true,
+                                "SupportsDirectStream": true,
+                                "SupportsDirectPlay": true,
+                                "IsInfiniteStream": false,
+                                "RequiresOpening": true,
+                                "RequiresClosing": true,
+                                "RequiresLooping": false,
+                                "SupportsProbing": false,
+                                "MediaStreams": [
+                                    {
+                                        "IsInterlaced": false,
+                                        "Channels": 2,
+                                        "IsDefault": false,
+                                        "IsForced": false,
+                                        "Type": "Audio",
+                                        "Index": -1,
+                                        "IsExternal": false,
+                                        "IsTextSubtitleStream": false,
+                                        "SupportsExternalStream": false,
+                                        "Protocol": "File"
+                                    }
+                                ],
+                                "Formats": [
+                                    
+                                ],
+                                "RequiredHttpHeaders": {
+                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                },
+                                "ReadAtNativeFramerate": false
+                            }
+                        ],
+                        "Artists": [
+                            
+                        ],
+                        "AlbumArtists": [
+                            
+                        ],
+                        "IsLiveStream": false
+                    },
+                    "ImageInfos": [
+                        
+                    ]
+                },
+                {
+                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                    "ItemInfo": {
+                        "Name": "Emby Show Theme Video 1",
+                        "Id": "themeVideo1",
+                        "DateModified": "\/Date(1665435189596)\/",
+                        "Type": "Media",
+                        "Genres": [
+                            
+                        ],
+                        "Studios": [
+                            
+                        ],
+                        "Tags": [
+                            
+                        ],
+                        "People": [
+                            
+                        ],
+                        "MediaType": "Video",
+                        "FolderType": "Container",
+                        "ContentType": "TvExtra",
+                        "ExtraType": "ThemeVideo",
+                        "ProviderIds": {
+                            
+                        },
+                        "PremiereDate": "\/Date(1664755200000)\/",
+                        "MediaSources": [
+                            {
+                                "Protocol": "Http",
+                                "Id": "e1d9bb5d3fc5b392ffa3add46fcac7a1",
+                                "Path": "https://embysupport.github.io/emby-show/theme_video1.mp4",
+                                "Type": "Default",
+                                "Container": "mp4",
+                                "Name": "Emby Show Theme Video 1",
+                                "IsRemote": true,
+                                "SupportsTranscoding": true,
+                                "SupportsDirectStream": true,
+                                "SupportsDirectPlay": true,
+                                "IsInfiniteStream": false,
+                                "RequiresOpening": true,
+                                "RequiresClosing": true,
+                                "RequiresLooping": false,
+                                "SupportsProbing": false,
+                                "MediaStreams": [
+                                    {
+                                        "VideoRange": "SDR",
+                                        "IsInterlaced": false,
+                                        "IsDefault": false,
+                                        "IsForced": false,
+                                        "Type": "Video",
+                                        "Index": -1,
+                                        "IsExternal": false,
+                                        "IsTextSubtitleStream": false,
+                                        "SupportsExternalStream": false,
+                                        "Protocol": "File"
+                                    }
+                                ],
+                                "Formats": [
+                                    
+                                ],
+                                "RequiredHttpHeaders": {
+                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                },
+                                "ReadAtNativeFramerate": false
+                            }
+                        ],
+                        "Artists": [
+                            
+                        ],
+                        "AlbumArtists": [
+                            
+                        ],
+                        "IsLiveStream": false
+                    },
+                    "ImageInfos": [
+                        
+                    ]
+                },
+                {
+                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                    "ItemInfo": {
+                        "Name": "Emby Show Theme Song as Video",
+                        "Id": "themeVideo2",
+                        "DateModified": "\/Date(1665435189596)\/",
+                        "Type": "Media",
+                        "Genres": [
+                            
+                        ],
+                        "Studios": [
+                            
+                        ],
+                        "Tags": [
+                            
+                        ],
+                        "People": [
+                            
+                        ],
+                        "MediaType": "Audio",
+                        "FolderType": "Container",
+                        "ContentType": "TvExtra",
+                        "ExtraType": "ThemeVideo",
+                        "ProviderIds": {
+                            
+                        },
+                        "PremiereDate": "\/Date(1664755200000)\/",
+                        "MediaSources": [
+                            {
+                                "Protocol": "Http",
+                                "Id": "fdaa031b9d1d3079dcba45ad5571681c",
+                                "Path": "https://embysupport.github.io/emby-show/theme_music.mp3",
+                                "Type": "Default",
+                                "Container": "mp3",
+                                "Name": "Emby Show Theme Song as Video",
+                                "IsRemote": true,
+                                "SupportsTranscoding": true,
+                                "SupportsDirectStream": true,
+                                "SupportsDirectPlay": true,
+                                "IsInfiniteStream": false,
+                                "RequiresOpening": true,
+                                "RequiresClosing": true,
+                                "RequiresLooping": false,
+                                "SupportsProbing": false,
+                                "MediaStreams": [
+                                    {
+                                        "IsInterlaced": false,
+                                        "Channels": 2,
+                                        "IsDefault": false,
+                                        "IsForced": false,
+                                        "Type": "Audio",
+                                        "Index": -1,
+                                        "IsExternal": false,
+                                        "IsTextSubtitleStream": false,
+                                        "SupportsExternalStream": false,
+                                        "Protocol": "File"
+                                    }
+                                ],
+                                "Formats": [
+                                    
+                                ],
+                                "RequiredHttpHeaders": {
+                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                },
+                                "ReadAtNativeFramerate": false
+                            }
+                        ],
+                        "Artists": [
+                            
+                        ],
+                        "AlbumArtists": [
+                            
+                        ],
+                        "IsLiveStream": false
+                    },
+                    "ImageInfos": [
+                        
+                    ]
+                }
+            ],
+            "ItemInfo": {
+                "Name": "The EMBY Show (Preview)",
+                "Id": "seriesFolder1",
+                "DateModified": "\/Date(1665435189577)\/",
+                "Type": "Folder",
+                "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThere will be several sub-channels targeting different audiencences. The first one is 'News from the Devs', which is targeting users of the beta versions, developers and technical enthusiasts.",
+                "Genres": [
+                    
+                ],
+                "Studios": [
+                    
+                ],
+                "Tags": [
+                    
+                ],
+                "People": [
+                    
+                ],
+                "ImageUrl": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                "MediaType": "Video",
+                "FolderType": "Series",
+                "ContentType": "Clip",
+                "ExtraType": "0",
+                "ProviderIds": {
+                    
+                },
+                "MediaSources": [
+                    
+                ],
+                "HomePageUrl": "https://emby.media",
+                "Artists": [
+                    
+                ],
+                "AlbumArtists": [
+                    
+                ],
+                "IsLiveStream": false
+            },
+            "TagLine": "Official Emby Video Channel",
+            "PremiereDate": "\/Date(1665360000000)\/",
+            "ProductionYear": 2022,
+            "ImageInfos": [
+                {
+                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                    "Type": "Primary",
+                    "Orientation": "TopLeft",
+                    "DateModified": "\/Date(1665435189577)\/",
+                    "Width": 919,
+                    "Height": 517
+                },
+                {
+                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                    "Type": "Thumb",
+                    "Orientation": "TopLeft",
+                    "DateModified": "\/Date(1665435189577)\/",
+                    "Width": 919,
+                    "Height": 517
+                },
+                {
+                    "Path": "https://embysupport.github.io/emby-show/images/logo.png",
+                    "Type": "Logo",
+                    "Orientation": "TopLeft",
+                    "DateModified": "\/Date(1665435189577)\/",
+                    "Width": 842,
+                    "Height": 93
+                },
+                {
+                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
+                    "Type": "Backdrop",
+                    "Orientation": "TopLeft",
+                    "DateModified": "\/Date(1665435189577)\/",
+                    "Width": 0,
+                    "Height": 0
+                }
+            ]
+        }
+    ]
+}
