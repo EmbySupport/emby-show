@@ -12,7 +12,7 @@
                                 "Name": "Teaser Intro",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode0",
-                                "DateModified": "\/Date(1667516798922)\/",
+                                "DateModified": "\/Date(1671787459406)\/",
                                 "Type": "Media",
                                 "Overview": "Teaser - introducing The Emby Show",
                                 "Genres": [
@@ -48,7 +48,7 @@
                                         "Id": 0,
                                         "Name": "luke",
                                         "Type": "Producer",
-                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.png",
                                         "ProviderIds": {
                                             
                                         }
@@ -127,7 +127,8 @@
                                 "AlbumArtists": [
                                     
                                 ],
-                                "IsLiveStream": false
+                                "IsLiveStream": false,
+                                "ForceUpdate": true
                             },
                             "ImageInfos": [
                                 {
@@ -146,7 +147,7 @@
                                 "Name": "Advancements in Subtitle Delivery - Part 1",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode1",
-                                "DateModified": "\/Date(1667516798934)\/",
+                                "DateModified": "\/Date(1671787459406)\/",
                                 "Type": "Media",
                                 "Overview": "Introduction to the new options and features for handling text subtitles.",
                                 "Genres": [
@@ -182,7 +183,7 @@
                                         "Id": 0,
                                         "Name": "luke",
                                         "Type": "Producer",
-                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.png",
                                         "ProviderIds": {
                                             
                                         }
@@ -261,7 +262,8 @@
                                 "AlbumArtists": [
                                     
                                 ],
-                                "IsLiveStream": false
+                                "IsLiveStream": false,
+                                "ForceUpdate": true
                             },
                             "ImageInfos": [
                                 {
@@ -280,7 +282,7 @@
                                 "Name": "Advancements in Subtitle Delivery - Part 2",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode2",
-                                "DateModified": "\/Date(1667516798934)\/",
+                                "DateModified": "\/Date(1671787459406)\/",
                                 "Type": "Media",
                                 "Overview": "Introduction to OCR conversion of graphical subtitles.",
                                 "Genres": [
@@ -316,7 +318,7 @@
                                         "Id": 0,
                                         "Name": "luke",
                                         "Type": "Producer",
-                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.png",
                                         "ProviderIds": {
                                             
                                         }
@@ -395,7 +397,143 @@
                                 "AlbumArtists": [
                                     
                                 ],
-                                "IsLiveStream": false
+                                "IsLiveStream": false,
+                                "ForceUpdate": true
+                            },
+                            "ImageInfos": [
+                                {
+                                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
+                                    "Type": "Backdrop",
+                                    "Orientation": "LeftTop",
+                                    "DateModified": "\/Date(-62135596800000)\/",
+                                    "Width": 0,
+                                    "Height": 0
+                                }
+                            ]
+                        },
+                        {
+                            "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                            "ItemInfo": {
+                                "Name": "Emby SDK",
+                                "SeriesName": "The EMBY Show (Preview)",
+                                "Id": "nftdEpisode3",
+                                "DateModified": "\/Date(1671787459406)\/",
+                                "Type": "Media",
+                                "Overview": "Presenting the new Emby SDK",
+                                "Genres": [
+                                    
+                                ],
+                                "Studios": [
+                                    
+                                ],
+                                "Tags": [
+                                    "Emby Show"
+                                ],
+                                "People": [
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "softworkz",
+                                        "Type": "Director",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz2.png",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "luke",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.png",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "ebr",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr2.jpg",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    }
+                                ],
+                                "RunTimeTicks": 10300000000,
+                                "ImageUrl": "https://embysupport.github.io/emby-show/images/episodes/s01_e03_primary.png",
+                                "MediaType": "Video",
+                                "FolderType": "Container",
+                                "ContentType": "Episode",
+                                "ExtraType": "0",
+                                "ProviderIds": {
+                                    
+                                },
+                                "PremiereDate": "\/Date(1671753600000)\/",
+                                "IndexNumber": 3,
+                                "ParentIndexNumber": 1,
+                                "MediaSources": [
+                                    {
+                                        "Protocol": "Http",
+                                        "Id": "94b3a845811512651f20399326679f6d",
+                                        "Path": "https://embysupport.github.io/emby-show/es03/es_e03.m3u8",
+                                        "Type": "Default",
+                                        "Container": "hls",
+                                        "Name": "Emby SDK",
+                                        "IsRemote": true,
+                                        "RunTimeTicks": 10300000000,
+                                        "SupportsTranscoding": true,
+                                        "SupportsDirectStream": true,
+                                        "SupportsDirectPlay": true,
+                                        "IsInfiniteStream": false,
+                                        "RequiresOpening": true,
+                                        "RequiresClosing": true,
+                                        "RequiresLooping": false,
+                                        "SupportsProbing": false,
+                                        "MediaStreams": [
+                                            {
+                                                "VideoRange": "SDR",
+                                                "IsInterlaced": false,
+                                                "IsDefault": false,
+                                                "IsForced": false,
+                                                "Type": "Video",
+                                                "Index": -1,
+                                                "IsExternal": false,
+                                                "IsTextSubtitleStream": false,
+                                                "SupportsExternalStream": false,
+                                                "Protocol": "File"
+                                            }
+                                        ],
+                                        "Formats": [
+                                            
+                                        ],
+                                        "RequiredHttpHeaders": {
+                                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                        },
+                                        "ReadAtNativeFramerate": false
+                                    }
+                                ],
+                                "Artists": [
+                                    
+                                ],
+                                "AlbumArtists": [
+                                    
+                                ],
+                                "IsLiveStream": false,
+                                "ForceUpdate": true
                             },
                             "ImageInfos": [
                                 {
@@ -412,7 +550,7 @@
                     "ItemInfo": {
                         "Name": "News from the Devs",
                         "Id": "newsFromTheDevs",
-                        "DateModified": "\/Date(1667516798922)\/",
+                        "DateModified": "\/Date(1671787459406)\/",
                         "Type": "Folder",
                         "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThis is the 'News from the Devs', sub-channel which is targeting users of the beta versions, developers and technical enthusiasts.",
                         "Genres": [
@@ -445,7 +583,8 @@
                         "AlbumArtists": [
                             
                         ],
-                        "IsLiveStream": false
+                        "IsLiveStream": false,
+                        "ForceUpdate": true
                     },
                     "TagLine": "Covering Beta Versions and Technical Backgrounds",
                     "ImageInfos": [
@@ -453,7 +592,7 @@
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1667516798922)\/",
+                            "DateModified": "\/Date(1671787459348)\/",
                             "Width": 0,
                             "Height": 0
                         },
@@ -461,7 +600,7 @@
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1667516798922)\/",
+                            "DateModified": "\/Date(1671787459348)\/",
                             "Width": 0,
                             "Height": 0
                         },
@@ -469,7 +608,7 @@
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop4.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1667516798922)\/",
+                            "DateModified": "\/Date(1671787459348)\/",
                             "Width": 0,
                             "Height": 0
                         }
@@ -480,7 +619,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme Song",
                         "Id": "themeSong1",
-                        "DateModified": "\/Date(1667516798934)\/",
+                        "DateModified": "\/Date(1671787459406)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -548,7 +687,8 @@
                         "AlbumArtists": [
                             
                         ],
-                        "IsLiveStream": false
+                        "IsLiveStream": false,
+                        "ForceUpdate": true
                     },
                     "ImageInfos": [
                         
@@ -559,7 +699,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme 0 Video",
                         "Id": "themeVideo1",
-                        "DateModified": "\/Date(1667516798934)\/",
+                        "DateModified": "\/Date(1671787459406)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -627,7 +767,8 @@
                         "AlbumArtists": [
                             
                         ],
-                        "IsLiveStream": false
+                        "IsLiveStream": false,
+                        "ForceUpdate": true
                     },
                     "ImageInfos": [
                         
@@ -638,7 +779,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme Song as Video",
                         "Id": "themeVideo2",
-                        "DateModified": "\/Date(1667516798934)\/",
+                        "DateModified": "\/Date(1671787459406)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -706,7 +847,8 @@
                         "AlbumArtists": [
                             
                         ],
-                        "IsLiveStream": false
+                        "IsLiveStream": false,
+                        "ForceUpdate": true
                     },
                     "ImageInfos": [
                         
@@ -715,8 +857,8 @@
             ],
             "ItemInfo": {
                 "Name": "The EMBY Show (Preview)",
-                "Id": "seriesFolder3",
-                "DateModified": "\/Date(1667516798921)\/",
+                "Id": "seriesFolder4",
+                "DateModified": "\/Date(1671787459405)\/",
                 "Type": "Folder",
                 "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThere will be several sub-channels targeting different audiencences. The first one is 'News from the Devs', which is targeting users of the beta versions, developers and technical enthusiasts.",
                 "Genres": [
@@ -731,7 +873,7 @@
                 "People": [
                     
                 ],
-                "ImageUrl": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                "ImageUrl": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2.png",
                 "MediaType": "Video",
                 "FolderType": "Series",
                 "ContentType": "Clip",
@@ -742,32 +884,32 @@
                 "MediaSources": [
                     
                 ],
-                "HomePageUrl": "https://emby.media",
                 "Artists": [
                     
                 ],
                 "AlbumArtists": [
                     
                 ],
-                "IsLiveStream": false
+                "IsLiveStream": false,
+                "ForceUpdate": true
             },
             "TagLine": "Official Emby Video Channel",
             "PremiereDate": "\/Date(1665360000000)\/",
             "ProductionYear": 2022,
             "ImageInfos": [
                 {
-                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2.png",
                     "Type": "Primary",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1667516798922)\/",
+                    "DateModified": "\/Date(1671787459348)\/",
                     "Width": 919,
                     "Height": 517
                 },
                 {
-                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb.png",
+                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2.png",
                     "Type": "Thumb",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1667516798922)\/",
+                    "DateModified": "\/Date(1671787459348)\/",
                     "Width": 919,
                     "Height": 517
                 },
@@ -775,7 +917,7 @@
                     "Path": "https://embysupport.github.io/emby-show/images/logo.png",
                     "Type": "Logo",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1667516798922)\/",
+                    "DateModified": "\/Date(1671787459348)\/",
                     "Width": 842,
                     "Height": 93
                 },
@@ -783,444 +925,10 @@
                     "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
                     "Type": "Backdrop",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1667516798922)\/",
+                    "DateModified": "\/Date(1671787459348)\/",
                     "Width": 0,
                     "Height": 0
                 }
-            ]
-        },
-        {
-            "Children": [
-                {
-                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
-                    "ItemInfo": {
-                        "Name": "Clip Item Test",
-                        "Id": "clipItem",
-                        "DateModified": "\/Date(1667516798934)\/",
-                        "Type": "Media",
-                        "Overview": "Overview text for clip item",
-                        "Genres": [
-                            
-                        ],
-                        "Studios": [
-                            
-                        ],
-                        "Tags": [
-                            "Emby Show"
-                        ],
-                        "People": [
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "softworkz",
-                                "Type": "Director",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz2.png",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "luke",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "ebr",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            }
-                        ],
-                        "RunTimeTicks": 420000000,
-                        "MediaType": "Video",
-                        "FolderType": "Container",
-                        "ContentType": "Clip",
-                        "ExtraType": "0",
-                        "ProviderIds": {
-                            
-                        },
-                        "PremiereDate": "\/Date(1664755200000)\/",
-                        "MediaSources": [
-                            {
-                                "Protocol": "Http",
-                                "Id": "33abfc5962b40e8d2f0a950c11464941",
-                                "Path": "https://embysupport.github.io/emby-show/es00/es_e00.m3u8",
-                                "Type": "Default",
-                                "Container": "hls",
-                                "Name": "Clip Item Test",
-                                "IsRemote": true,
-                                "RunTimeTicks": 420000000,
-                                "SupportsTranscoding": true,
-                                "SupportsDirectStream": true,
-                                "SupportsDirectPlay": true,
-                                "IsInfiniteStream": false,
-                                "RequiresOpening": true,
-                                "RequiresClosing": true,
-                                "RequiresLooping": false,
-                                "SupportsProbing": false,
-                                "MediaStreams": [
-                                    {
-                                        "VideoRange": "SDR",
-                                        "IsInterlaced": false,
-                                        "IsDefault": false,
-                                        "IsForced": false,
-                                        "Type": "Video",
-                                        "Index": -1,
-                                        "IsExternal": false,
-                                        "IsTextSubtitleStream": false,
-                                        "SupportsExternalStream": false,
-                                        "Protocol": "File"
-                                    }
-                                ],
-                                "Formats": [
-                                    
-                                ],
-                                "RequiredHttpHeaders": {
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
-                                },
-                                "ReadAtNativeFramerate": false
-                            }
-                        ],
-                        "Artists": [
-                            
-                        ],
-                        "AlbumArtists": [
-                            
-                        ],
-                        "IsLiveStream": false
-                    },
-                    "ImageInfos": [
-                        {
-                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
-                            "Type": "Backdrop",
-                            "Orientation": "LeftTop",
-                            "DateModified": "\/Date(-62135596800000)\/",
-                            "Width": 0,
-                            "Height": 0
-                        }
-                    ]
-                },
-                {
-                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
-                    "ItemInfo": {
-                        "Name": "Movie Item Test",
-                        "Id": "movieItem",
-                        "DateModified": "\/Date(1667516798934)\/",
-                        "Type": "Media",
-                        "Overview": "Overview text for movie item",
-                        "Genres": [
-                            
-                        ],
-                        "Studios": [
-                            
-                        ],
-                        "Tags": [
-                            "Emby Show"
-                        ],
-                        "People": [
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "softworkz",
-                                "Type": "Director",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz2.png",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "luke",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "ebr",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            }
-                        ],
-                        "RunTimeTicks": 420000000,
-                        "MediaType": "Video",
-                        "FolderType": "Container",
-                        "ContentType": "Clip",
-                        "ExtraType": "0",
-                        "ProviderIds": {
-                            
-                        },
-                        "PremiereDate": "\/Date(1664755200000)\/",
-                        "MediaSources": [
-                            {
-                                "Protocol": "Http",
-                                "Id": "33abfc5962b40e8d2f0a950c11464941",
-                                "Path": "https://embysupport.github.io/emby-show/es00/es_e00.m3u8",
-                                "Type": "Default",
-                                "Container": "hls",
-                                "Name": "Movie Item Test",
-                                "IsRemote": true,
-                                "RunTimeTicks": 420000000,
-                                "SupportsTranscoding": true,
-                                "SupportsDirectStream": true,
-                                "SupportsDirectPlay": true,
-                                "IsInfiniteStream": false,
-                                "RequiresOpening": true,
-                                "RequiresClosing": true,
-                                "RequiresLooping": false,
-                                "SupportsProbing": false,
-                                "MediaStreams": [
-                                    {
-                                        "VideoRange": "SDR",
-                                        "IsInterlaced": false,
-                                        "IsDefault": false,
-                                        "IsForced": false,
-                                        "Type": "Video",
-                                        "Index": -1,
-                                        "IsExternal": false,
-                                        "IsTextSubtitleStream": false,
-                                        "SupportsExternalStream": false,
-                                        "Protocol": "File"
-                                    }
-                                ],
-                                "Formats": [
-                                    
-                                ],
-                                "RequiredHttpHeaders": {
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
-                                },
-                                "ReadAtNativeFramerate": false
-                            }
-                        ],
-                        "Artists": [
-                            
-                        ],
-                        "AlbumArtists": [
-                            
-                        ],
-                        "IsLiveStream": false
-                    },
-                    "ImageInfos": [
-                        {
-                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
-                            "Type": "Backdrop",
-                            "Orientation": "LeftTop",
-                            "DateModified": "\/Date(-62135596800000)\/",
-                            "Width": 0,
-                            "Height": 0
-                        }
-                    ]
-                },
-                {
-                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
-                    "ItemInfo": {
-                        "Name": "Episode Item Test",
-                        "Id": "episodeItem",
-                        "DateModified": "\/Date(1667516798934)\/",
-                        "Type": "Media",
-                        "Overview": "Overview text for episode item",
-                        "Genres": [
-                            
-                        ],
-                        "Studios": [
-                            
-                        ],
-                        "Tags": [
-                            "Emby Show"
-                        ],
-                        "People": [
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "softworkz",
-                                "Type": "Director",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz2.png",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "luke",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            },
-                            {
-                                "ImageInfos": [
-                                    
-                                ],
-                                "ItemId": 0,
-                                "Guid": "00000000000000000000000000000000",
-                                "Id": 0,
-                                "Name": "ebr",
-                                "Type": "Producer",
-                                "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr2.jpg",
-                                "ProviderIds": {
-                                    
-                                }
-                            }
-                        ],
-                        "RunTimeTicks": 420000000,
-                        "MediaType": "Video",
-                        "FolderType": "Container",
-                        "ContentType": "Episode",
-                        "ExtraType": "0",
-                        "ProviderIds": {
-                            
-                        },
-                        "PremiereDate": "\/Date(1664755200000)\/",
-                        "MediaSources": [
-                            {
-                                "Protocol": "Http",
-                                "Id": "33abfc5962b40e8d2f0a950c11464941",
-                                "Path": "https://embysupport.github.io/emby-show/es00/es_e00.m3u8",
-                                "Type": "Default",
-                                "Container": "hls",
-                                "Name": "Episode Item Test",
-                                "IsRemote": true,
-                                "RunTimeTicks": 420000000,
-                                "SupportsTranscoding": true,
-                                "SupportsDirectStream": true,
-                                "SupportsDirectPlay": true,
-                                "IsInfiniteStream": false,
-                                "RequiresOpening": true,
-                                "RequiresClosing": true,
-                                "RequiresLooping": false,
-                                "SupportsProbing": false,
-                                "MediaStreams": [
-                                    {
-                                        "VideoRange": "SDR",
-                                        "IsInterlaced": false,
-                                        "IsDefault": false,
-                                        "IsForced": false,
-                                        "Type": "Video",
-                                        "Index": -1,
-                                        "IsExternal": false,
-                                        "IsTextSubtitleStream": false,
-                                        "SupportsExternalStream": false,
-                                        "Protocol": "File"
-                                    }
-                                ],
-                                "Formats": [
-                                    
-                                ],
-                                "RequiredHttpHeaders": {
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
-                                },
-                                "ReadAtNativeFramerate": false
-                            }
-                        ],
-                        "Artists": [
-                            
-                        ],
-                        "AlbumArtists": [
-                            
-                        ],
-                        "IsLiveStream": false
-                    },
-                    "ImageInfos": [
-                        {
-                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
-                            "Type": "Backdrop",
-                            "Orientation": "LeftTop",
-                            "DateModified": "\/Date(-62135596800000)\/",
-                            "Width": 0,
-                            "Height": 0
-                        }
-                    ]
-                }
-            ],
-            "ItemInfo": {
-                "Name": "Single Test Items",
-                "Id": "singleItemmFolder",
-                "DateModified": "\/Date(1667516798934)\/",
-                "Type": "Folder",
-                "Overview": "Single items for testing.",
-                "Genres": [
-                    
-                ],
-                "Studios": [
-                    
-                ],
-                "Tags": [
-                    
-                ],
-                "People": [
-                    
-                ],
-                "MediaType": "Video",
-                "FolderType": "Container",
-                "ContentType": "Clip",
-                "ExtraType": "0",
-                "ProviderIds": {
-                    
-                },
-                "MediaSources": [
-                    
-                ],
-                "HomePageUrl": "https://emby.media",
-                "Artists": [
-                    
-                ],
-                "AlbumArtists": [
-                    
-                ],
-                "IsLiveStream": false
-            },
-            "ImageInfos": [
-                
             ]
         }
     ]
