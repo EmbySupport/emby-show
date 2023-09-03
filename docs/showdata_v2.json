@@ -12,7 +12,7 @@
                                 "Name": "Teaser Intro",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode0",
-                                "DateModified": "\/Date(1671788504380)\/",
+                                "DateModified": "\/Date(1693775124857)\/",
                                 "Type": "Media",
                                 "Overview": "Teaser - introducing The Emby Show",
                                 "Genres": [
@@ -147,7 +147,7 @@
                                 "Name": "Advancements in Subtitle Delivery - Part 1",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode1",
-                                "DateModified": "\/Date(1671788504380)\/",
+                                "DateModified": "\/Date(1693775124857)\/",
                                 "Type": "Media",
                                 "Overview": "Introduction to the new options and features for handling text subtitles.",
                                 "Genres": [
@@ -282,7 +282,7 @@
                                 "Name": "Advancements in Subtitle Delivery - Part 2",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode2",
-                                "DateModified": "\/Date(1671788504380)\/",
+                                "DateModified": "\/Date(1693775124857)\/",
                                 "Type": "Media",
                                 "Overview": "Introduction to OCR conversion of graphical subtitles.",
                                 "Genres": [
@@ -417,7 +417,7 @@
                                 "Name": "Emby SDK",
                                 "SeriesName": "The EMBY Show (Preview)",
                                 "Id": "nftdEpisode3",
-                                "DateModified": "\/Date(1671788504380)\/",
+                                "DateModified": "\/Date(1693775124857)\/",
                                 "Type": "Media",
                                 "Overview": "Presenting the new Emby SDK",
                                 "Genres": [
@@ -550,9 +550,9 @@
                     "ItemInfo": {
                         "Name": "News from the Devs",
                         "Id": "newsFromTheDevs",
-                        "DateModified": "\/Date(1671788504380)\/",
+                        "DateModified": "\/Date(1693775124857)\/",
                         "Type": "Folder",
-                        "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThis is the 'News from the Devs', sub-channel which is targeting users of the beta versions, developers and technical enthusiasts.",
+                        "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThis is the 'News from the Devs', sub-channel which is covering news and technical backgrounds for developers and technical enthusiasts",
                         "Genres": [
                             
                         ],
@@ -586,13 +586,13 @@
                         "IsLiveStream": false,
                         "ForceUpdate": true
                     },
-                    "TagLine": "Covering Beta Versions and Technical Backgrounds",
+                    "TagLine": "Covering Technical Backgrounds and Developer News",
                     "ImageInfos": [
                         {
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1671788504358)\/",
+                            "DateModified": "\/Date(1693775121792)\/",
                             "Width": 0,
                             "Height": 0
                         },
@@ -600,7 +600,7 @@
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1671788504358)\/",
+                            "DateModified": "\/Date(1693775121792)\/",
                             "Width": 0,
                             "Height": 0
                         },
@@ -608,7 +608,7 @@
                             "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop4.jpg",
                             "Type": "Backdrop",
                             "Orientation": "TopLeft",
-                            "DateModified": "\/Date(1671788504358)\/",
+                            "DateModified": "\/Date(1693775121792)\/",
                             "Width": 0,
                             "Height": 0
                         }
@@ -619,7 +619,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme Song",
                         "Id": "themeSong1",
-                        "DateModified": "\/Date(1671788504380)\/",
+                        "DateModified": "\/Date(1693775124857)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -699,7 +699,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme 0 Video",
                         "Id": "themeVideo1",
-                        "DateModified": "\/Date(1671788504380)\/",
+                        "DateModified": "\/Date(1693775124857)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -779,7 +779,7 @@
                     "ItemInfo": {
                         "Name": "Emby Show Theme Song as Video",
                         "Id": "themeVideo2",
-                        "DateModified": "\/Date(1671788504380)\/",
+                        "DateModified": "\/Date(1693775124857)\/",
                         "Type": "Media",
                         "Genres": [
                             
@@ -853,14 +853,220 @@
                     "ImageInfos": [
                         
                     ]
+                },
+                {
+                    "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemFolder, Emby.Plugin.EmbyShow",
+                    "Children": [
+                        {
+                            "__type": "Emby.Plugin.EmbyShow.Model.RemoteItemStream, Emby.Plugin.EmbyShow",
+                            "ItemInfo": {
+                                "Name": "Introducing the new Emby WMC UI: Walkthrough",
+                                "SeriesName": "The EMBY Show (Preview)",
+                                "Id": "bfEpisode1",
+                                "DateModified": "\/Date(1693775124857)\/",
+                                "Type": "Media",
+                                "Overview": "Launch video with a comprehensive walkthrough",
+                                "Genres": [
+                                    
+                                ],
+                                "Studios": [
+                                    
+                                ],
+                                "Tags": [
+                                    "Emby Show"
+                                ],
+                                "People": [
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "softworkz",
+                                        "Type": "Director",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/softworkz2.png",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "luke",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/luke2.png",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    },
+                                    {
+                                        "ImageInfos": [
+                                            
+                                        ],
+                                        "ItemId": 0,
+                                        "Guid": "00000000000000000000000000000000",
+                                        "Id": 0,
+                                        "Name": "ebr",
+                                        "Type": "Producer",
+                                        "ImageUrl": "https://embysupport.github.io/emby-show/images/people/ebr2.jpg",
+                                        "ProviderIds": {
+                                            
+                                        }
+                                    }
+                                ],
+                                "RunTimeTicks": 9880000000,
+                                "ImageUrl": "https://embysupport.github.io/emby-show/images/episodes/s02_e01_primary.jpg",
+                                "MediaType": "Video",
+                                "FolderType": "Container",
+                                "ContentType": "Episode",
+                                "ExtraType": "0",
+                                "ProviderIds": {
+                                    
+                                },
+                                "PremiereDate": "\/Date(1693526400000)\/",
+                                "IndexNumber": 1,
+                                "ParentIndexNumber": 2,
+                                "MediaSources": [
+                                    {
+                                        "Protocol": "Http",
+                                        "Id": "ee1751b42b0920f6e219c6d62a46f420",
+                                        "Path": "https://embysupport.github.io/emby-show/s02e01/s02e01.m3u8",
+                                        "Type": "Default",
+                                        "Container": "hls",
+                                        "Name": "Introducing the new Emby WMC UI: Walkthrough",
+                                        "IsRemote": true,
+                                        "RunTimeTicks": 9880000000,
+                                        "SupportsTranscoding": true,
+                                        "SupportsDirectStream": true,
+                                        "SupportsDirectPlay": true,
+                                        "IsInfiniteStream": false,
+                                        "RequiresOpening": true,
+                                        "RequiresClosing": true,
+                                        "RequiresLooping": false,
+                                        "SupportsProbing": false,
+                                        "MediaStreams": [
+                                            {
+                                                "VideoRange": "SDR",
+                                                "IsInterlaced": false,
+                                                "IsDefault": false,
+                                                "IsForced": false,
+                                                "Type": "Video",
+                                                "Index": -1,
+                                                "IsExternal": false,
+                                                "IsTextSubtitleStream": false,
+                                                "SupportsExternalStream": false,
+                                                "Protocol": "File"
+                                            }
+                                        ],
+                                        "Formats": [
+                                            
+                                        ],
+                                        "RequiredHttpHeaders": {
+                                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36"
+                                        },
+                                        "ReadAtNativeFramerate": false
+                                    }
+                                ],
+                                "Artists": [
+                                    
+                                ],
+                                "AlbumArtists": [
+                                    
+                                ],
+                                "IsLiveStream": false,
+                                "ForceUpdate": true
+                            },
+                            "ImageInfos": [
+                                {
+                                    "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
+                                    "Type": "Backdrop",
+                                    "Orientation": "LeftTop",
+                                    "DateModified": "\/Date(-62135596800000)\/",
+                                    "Width": 0,
+                                    "Height": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "ItemInfo": {
+                        "Name": "Beta Flash",
+                        "Id": "betaFlash",
+                        "DateModified": "\/Date(1693775124857)\/",
+                        "Type": "Folder",
+                        "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThis is the 'Beta Flash', sub-channel which is covering new features available in beta versions.",
+                        "Genres": [
+                            
+                        ],
+                        "Studios": [
+                            
+                        ],
+                        "Tags": [
+                            
+                        ],
+                        "People": [
+                            
+                        ],
+                        "ImageUrl": "https://embysupport.github.io/emby-show/images/beta_flash_primary.png",
+                        "MediaType": "Video",
+                        "FolderType": "Season",
+                        "ContentType": "Clip",
+                        "ExtraType": "0",
+                        "ProviderIds": {
+                            
+                        },
+                        "IndexNumber": 1,
+                        "MediaSources": [
+                            
+                        ],
+                        "Artists": [
+                            
+                        ],
+                        "AlbumArtists": [
+                            
+                        ],
+                        "IsLiveStream": false,
+                        "ForceUpdate": true
+                    },
+                    "TagLine": "Covering new Features in Beta Versions",
+                    "ImageInfos": [
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1693775124379)\/",
+                            "Width": 0,
+                            "Height": 0
+                        },
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1693775124379)\/",
+                            "Width": 0,
+                            "Height": 0
+                        },
+                        {
+                            "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Backdrop4.jpg",
+                            "Type": "Backdrop",
+                            "Orientation": "TopLeft",
+                            "DateModified": "\/Date(1693775124379)\/",
+                            "Width": 0,
+                            "Height": 0
+                        }
+                    ]
                 }
             ],
             "ItemInfo": {
                 "Name": "The EMBY Show (Preview)",
                 "Id": "seriesFolder4",
-                "DateModified": "\/Date(1671788504380)\/",
+                "DateModified": "\/Date(1693775124857)\/",
                 "Type": "Folder",
-                "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThere will be several sub-channels targeting different audiencences. The first one is 'News from the Devs', which is targeting users of the beta versions, developers and technical enthusiasts.",
+                "Overview": "The EMBY Show is the new official video channel, providing all kinds of information about Emby and related news from the Emby ecosystem.\nThere are several sub-channels targeting different audiencences. 'News from the Devs' is covering news and technical backgrounds for developers and technical enthusiasts, 'Beta Flash' is covering new features available in beta versions. ",
                 "Genres": [
                     
                 ],
@@ -901,7 +1107,7 @@
                     "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2.png",
                     "Type": "Primary",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1671788504358)\/",
+                    "DateModified": "\/Date(1693775121791)\/",
                     "Width": 919,
                     "Height": 517
                 },
@@ -909,7 +1115,7 @@
                     "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2.png",
                     "Type": "Thumb",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1671788504358)\/",
+                    "DateModified": "\/Date(1693775121792)\/",
                     "Width": 919,
                     "Height": 517
                 },
@@ -917,7 +1123,7 @@
                     "Path": "https://embysupport.github.io/emby-show/images/logo.png",
                     "Type": "Logo",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1671788504358)\/",
+                    "DateModified": "\/Date(1693775121792)\/",
                     "Width": 842,
                     "Height": 93
                 },
@@ -925,7 +1131,7 @@
                     "Path": "https://embysupport.github.io/emby-show/images/EmbyShow_Thumb2_Large.jpg",
                     "Type": "Backdrop",
                     "Orientation": "TopLeft",
-                    "DateModified": "\/Date(1671788504358)\/",
+                    "DateModified": "\/Date(1693775121792)\/",
                     "Width": 0,
                     "Height": 0
                 }
